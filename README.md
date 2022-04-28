@@ -15,6 +15,6 @@ server.</p>
 
 <p >
 We are building a community where frontend developers can showcase their creative skills to the world. Who has never seen anything like it before, So we are one of the best community to help your skills to upgrade next level i.e. flutch.io
-</p>
+</p></br></br>
 
-<img alt="The Introduction Of Flutch ! Get Know About It !" src="https://flutch.io/flutch/images/blogs/YmiHtTCqGy3cvplVSodj.jpg">
+<img width="50%" alt="The Introduction Of Flutch ! Get Know About It !" src="https://flutch.io/flutch/images/blogs/YmiHtTCqGy3cvplVSodj.jpg">
