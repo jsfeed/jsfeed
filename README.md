@@ -6,3 +6,7 @@ and sharing code with others which can help you to be more productive and more f
 them to create and upload code to your own server, we have an in-browser
  code editor where you can create, edit and preview code on live web 
 server.</p>
+
+<p class="pdref paragraph_content">
+We are building a community where frontend developers can showcase their creative skills to the world. Who has never seen anything like it before, So we are one of the best community to help your skills to upgrade next level i.e. flutch.io
+</p>
