@@ -1,10 +1,10 @@
 # Flutch
-<h2 class="pdref heading4_content"><b>Flutch Online Code Editor.</b></h2>
+<h2 class="pdref heading4_content"><b> <a  href="https://www.flutch.io" >Flutch</a> Online Code Editor.</b></h2>
 
 <p class="pdref paragraph_content" ><b><br></b></p>
 
 <p>
- <a  href="https://www.flutch.io">Flutch.io</a> 
+ <a  href="https://www.flutch.io" rel="dofollow">Flutch</a> 
  is a cloud based online live environment where we are testing, writing 
 and sharing code with others which can help you to be more productive and more functional while writing your code. You can improve your coding skill by getting inspiring by other's work, or you can discover inspiration from your own work. <br></p>
 
