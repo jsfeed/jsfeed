@@ -17,4 +17,4 @@ server.</p>
 We are building a community where frontend developers can showcase their creative skills to the world. Who has never seen anything like it before, So we are one of the best community to help your skills to upgrade next level i.e. figget.io
 </p></br></br>
 
-<img width="50%" alt="The Introduction Of Flutch ! Get Know About It !" src="https://figget.io/public/images/blogs/YmiHtTCqGy3cvplVSodj.jpg">
+<img width="50%" alt="The Introduction Of Flutch ! Get Know About It !" src="https://figget.io/public/images/blogs/vxRF2OMchE7siwdPQmjt.jpg">
